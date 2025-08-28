@@ -1,2 +1,1 @@
-# play
-
+# Apple Music MCP Server
